@@ -10,7 +10,11 @@ Bu araç "python 3.7" üzerinde test edilmiş başarılı sonuç alınmıştır.
 
 3)selenium için tarayıcınıza uygun webdriver'inizi indiriniz ve kurunuz.
 
+4)Buradaki yazılımları kurabilirsiniz.
+
 Tüm kurulumları hatasız yaptı iseniz sorun çıkmayacaktır.
+
+
 
 *KULLANIM :
 
